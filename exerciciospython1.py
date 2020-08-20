@@ -13,4 +13,3 @@ class Maiordeidade():
 pessoa = Maiordeidade()
 pessoa.metodo1()
 pessoa.testeidade(int(input("qual a sua idade: ")))
- 
