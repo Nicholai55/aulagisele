@@ -33,7 +33,6 @@ def media(l):
     media = soma / len(lista)
     return media
 
-
 def comparacao(list):
 
     avg = sum(list) / len(list)
