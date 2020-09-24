@@ -29,13 +29,3 @@ programador = Programador("vinicius", 18, 1000)
 programador.aumenta_salario(1000, 20)
 analista = Analista("nicholai", 18, 2000)
 analista.aumenta_salario(2000)
-
-
-
-self.endereco = endereco
-        self.preco = preco
-        self.adicional = adicional
-
-self.endereco = endereco
-        self.preco = preco
-        self.desconto = desconto
