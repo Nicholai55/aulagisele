@@ -1,0 +1,1 @@
+Para fazer a Remocao Logica, nos utilizamos um arquivo "dadlos_deletados" para salvar os dados das pessoas que nao iriam mais ser utilizadas no banco de dados
