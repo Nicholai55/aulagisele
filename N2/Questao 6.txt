@@ -1,0 +1,11 @@
+Explique o que é pip:
+
+	Introduzido pela primeira vez como pyinstall em 2008, por Ian Bicking (o criador do pacote virtualenv), 
+como uma alternativa ao easy_install. pip foi escolhido como o novo nome de uma das várias sugestões 
+que o criador recebeu em seu blog, Segundo o próprio Bicking, o nome é um acrônimo para 
+"Pip Install Packages". Em 2011, a Python Packaging Authority (PyPA) foi criada para assumir a 
+manutenção do pip e do virtualenv de Bicking, liderada por Carl Meyer, Brian Rosner e Jannis Leidel.
+	pip é um sistema de gerenciamento de pacotes padrão de facto usado para instalar e gerenciar pacotes de 
+software escritos em Python. Muitos pacotes podem ser encontrados na fonte padrão para pacotes e suas 
+Dependências - Python Package Index (PyPI). 
+

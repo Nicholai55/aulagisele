@@ -1,0 +1,4 @@
+Bibliotecas usadas:
+Email_validator
+Pymongo
+Psycopg2
