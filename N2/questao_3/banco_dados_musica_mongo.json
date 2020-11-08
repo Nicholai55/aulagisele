@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "5fa33cad1d8f7ebe23215890"
+  },
+  "nome": "WAP",
+  "autor": "Cardi B",
+  "genero": "POP"
+},{
+  "_id": {
+    "$oid": "5fa33d101d8f7ebe23215893"
+  },
+  "nome": "Ceu Azul",
+  "autor": "Charlie Brown Jr",
+  "genero": "Rock"
+},{
+  "_id": {
+    "$oid": "5fa33d4a1d8f7ebe23215896"
+  },
+  "nome": "throgh the fires and flames",
+  "autor": "Dragon Force",
+  "genero": "Metal"
+}]

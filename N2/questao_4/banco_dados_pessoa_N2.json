@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "5fa6dfeff034b5d819bbf813"
+  },
+  "nome": "vinicius",
+  "cpf": "15926348712",
+  "email": "vini0420@gmail.com"
+},{
+  "_id": {
+    "$oid": "5fa6e09ad2834b76f3f27eb2"
+  },
+  "nome": "nicholai",
+  "cpf": "12345678912",
+  "email": "quelenha55@gmail.com"
+},{
+  "_id": {
+    "$oid": "5fa6e0abd2834b76f3f27eb5"
+  },
+  "nome": "mateus",
+  "cpf": "98765432198",
+  "email": "mateus@gmail.com"
+}]
