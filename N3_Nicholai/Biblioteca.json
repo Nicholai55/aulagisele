@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "5fc70028478ee1136b258f8c"
+  },
+  "name": "Deuscolai",
+  "email": "quelenha55@gmail.com",
+  "pwd": "pbkdf2:sha256:150000$fB67NO1N$7e0e7ecfb96d505c84bf30f83af90ab7ceb4d56a2c7f58b7a3efa4445eb34397"
+}]
