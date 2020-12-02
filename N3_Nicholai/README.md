@@ -13,7 +13,7 @@ Colection:user
 (OPCIONAL)
 downlaod bliblioteca.json
 
-
+POSTMAN:
 GET = http://localhost:5000/ or http://localhost:5000/user/id,
 PUT = http://localhost:5000/update/id,
 DEL = http://localhost:5000/delete/id,
